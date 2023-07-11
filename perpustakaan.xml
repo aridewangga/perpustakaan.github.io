@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<perpustakaan>
+  <buku>
+    <no>1</no>
+    <kode>B1</kode>
+    <nama>The Dancing Plague</nama>
+    <jenisbuku>Sejarah</jenisbuku>
+    <pengarang>Devin Saputra</pengarang>
+    <penerbit>Wattpad</penerbit>
+    <thnterbit>2019-02</thnterbit>
+  </buku>
+  <buku>
+    <no>2</no>
+    <kode>B2</kode>
+    <nama>100 Days In Elevator</nama>
+    <jenisbuku>Fiksi Horor</jenisbuku>
+    <pengarang>Devin Saputra</pengarang>
+    <penerbit>Wattpad</penerbit>
+    <thnterbit>2020</thnterbit>
+  </buku>
+  <buku>
+    <no>3</no>
+    <kode>J1</kode>
+    <nama>The Last Human In Tower</nama>
+    <jenisbuku>Fiksi</jenisbuku>
+    <pengarang>Devin Saputra</pengarang>
+    <penerbit>Wattpad</penerbit>
+    <thnterbit>2021</thnterbit>
+  </buku>
+  
+</perpustakaan>

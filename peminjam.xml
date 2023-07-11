@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<peminjam>
+  <peminjaman>
+    <no>21</no>
+    <username>nico</username>
+    <nama>Nicolas Saputra</nama>
+    <namabuku>The Dancing Plague</namabuku>
+    <jenisbuku>Sejarah</jenisbuku>
+    <tanggalpeminjaman>2023-02-05</tanggalpeminjaman>
+    <tanggalpengembalian>2024-02-05</tanggalpengembalian>
+  </peminjaman>
+</peminjam>
